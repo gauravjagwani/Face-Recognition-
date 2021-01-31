@@ -1,2 +1,2 @@
 # Face-Recognition-
-Creating and traing dataset models for accurate face detection.
+Creating and training dataset models for accurate face detection.
